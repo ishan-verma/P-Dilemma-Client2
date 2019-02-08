@@ -10,6 +10,6 @@ Node.js and Express.js installed
 NPM install
 NPM start
 ```
-- Go to port 8081 to play the game 
+- Go to port 8082 to play the game 
 - Set the name 
 - Choose the decision so that server can get them and proceed to next round 
